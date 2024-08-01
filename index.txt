@@ -4,7 +4,7 @@ Cryptonyta- Buy & Sell Digital Assets In The cryptex
 
 #---------- HEADER ----------#
 
-alt = Cryptex logo
+alt = Cryptonyta logo
 Cryptex
 
 Homepage
@@ -194,7 +194,7 @@ Earn Money
 
 alt = about banner
 
-What Is Cryptonytq
+What Is Cryptonyta
 
 Experience a variety of trading on Bitcost. You can use various types of coin transactions such as Spot Trade, Futures Trade, P2P, Staking, Mining, and margin.
 
@@ -242,8 +242,6 @@ Let's talk! 🤙
 Manoel Neto
 
 hello.cryptonyta@gmail.com
-
-Cecilia Chapman 711-2880 Nulla St. Mankato Mississippi 96522
 
 Products
 
